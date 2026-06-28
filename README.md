@@ -4,7 +4,7 @@
 ![Demo](media/gradescopeBot.gif)
 # Polished Version
 Login
-
+![loginFail](media/logging_in_fail.gif)
 ![loginSucceed](media/logging_in.gif)
 File Navigation
 ![FileNavigation](media/fileNavigation.gif)
