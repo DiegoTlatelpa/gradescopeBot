@@ -1,8 +1,15 @@
 ## GradeScope Bot
 
+# First Prototype
 ![Demo](media/gradescopeBot.gif)
+# Polished Version
+Login
 
-Prerequisite Node js 
+![loginSucceed](media/logging_in.gif)
+File Navigation
+![FileNavigation](media/fileNavigation.gif)
+View Submitted Assignments
+![Assignments](media/view_assignments.gif)
 
 Mac os: 
 
